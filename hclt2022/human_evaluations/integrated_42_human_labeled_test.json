@@ -1,0 +1,807 @@
+{"hypothesis": "노래방 기기를 쓰고 산 것에 대해 이야기한다.", "label": 2.0}
+{"hypothesis": "개인적으로 쭉한 취향을 가지고 있다.", "label": 2.0}
+{"hypothesis": "캐릭터가 계속 졸아서 죽지 않아서 확인을 기다리", "label": 2.0}
+{"hypothesis": "스포일러를 제목별로 써서 당했다고", "label": 2.0}
+{"hypothesis": "리포터를 가지고 나왔던 물건에 대해 말한다.", "label": 2.0}
+{"hypothesis": "친구가 썸 보이는 무언가를 보고 이야기한다.", "label": 2.0}
+{"hypothesis": "그 꽃병은 약간의 꽃이 안 나온다.", "label": 2.0}
+{"hypothesis": "새로운 아이디어로 쿠키를 만들면 고갈 것이라고 한다.", "label": 2.0}
+{"hypothesis": "두명의 남자가 식탁 위에서 일 나 있다.", "label": 2.0}
+{"hypothesis": "사랑하는 것이 없어서 이런 전용이모티콘을 구매했다.", "label": 2.0}
+{"hypothesis": "아침 요가 때문에 일찍 일어나서 일찍 일어나야 한다.", "label": 2.0}
+{"hypothesis": "피드백 폭탄을 받아서 가정이 합리적인 것만 알아서 칭찬해 주고 있다.", "label": 2.0}
+{"hypothesis": "의심해서 또 술을 마셨다고", "label": 2.0}
+{"hypothesis": "코끼리는 시트가 있는 시트에 있다.", "label": 2.0}
+{"hypothesis": "시골길 가장자리 가장자리에 어떤 소가 있다.", "label": 2.0}
+{"hypothesis": "티켓팅에 자신이 알려주는 비밀번호를 알려달라고 부탁한다.", "label": 2.0}
+{"hypothesis": "오늘은 시그널하는 날이라 시끄럽다고", "label": 2.0}
+{"hypothesis": "브로콜리와 건강식이 건강식을 함께 나온다.", "label": 2.0}
+{"hypothesis": "의사들이 나오는 다큐", "label": 2.0}
+{"hypothesis": "돌을 봐도 지금 유행하고 촌스럽다.", "label": 2.0}
+{"hypothesis": "오늘 소방관용 유퀴즈에 눈물 예약이 벌써 나온다니", "label": 2.0}
+{"hypothesis": "사진을 잘 고르고 있는데 잘 나온 거라고 고르고 있다.", "label": 2.0}
+{"hypothesis": "드라마에 나오는 귀때기에 대해 이야기하고 있다.", "label": 2.0}
+{"hypothesis": "한 남자가 말을 마구간 밖으로 돌본다.", "label": 2.0}
+{"hypothesis": "푸드 트럭 앞에 몇 손이 줄을 섰다.", "label": 2.0}
+{"hypothesis": "부라 바지가 비싸서 맨투맨을 사서 할 것이다.", "label": 2.0}
+{"hypothesis": "#이야기 집에서 블로그 작업을 미리 했다고", "label": 2.0}
+{"hypothesis": "한 남자가 무더기의 책 옆에서 책을 잔다.", "label": 2.0}
+{"hypothesis": "탁자 위에 가위와 몇개의 다른", "label": 2.0}
+{"hypothesis": "좋아하는 부분을 하지 않으면 중독성이 시작된다고", "label": 2.0}
+{"hypothesis": "새 한마리가 들판의 한 떼 옆을 걷는다.", "label": 2.0}
+{"hypothesis": "클럽에 가는 시간을 모르냐고 묻는 것에 대해 이야기하고 있다.", "label": 2.0}
+{"hypothesis": "영화 음악은 영상미가 좋고 내용은 폭력이다.", "label": 2.0}
+{"hypothesis": "드라마에서 나오는 등장인물의 등장인물에 대해 얘기하고 있다.", "label": 2.0}
+{"hypothesis": "산 근처의 물 속에 몇개의 보트와 보트가 있다.", "label": 2.0}
+{"hypothesis": "갈기를 사는 것에 대해서 이야기하고 있다.", "label": 2.0}
+{"hypothesis": "운동을 하기 싫다고", "label": 2.0}
+{"hypothesis": "드라마 스토브리그는 겨울에 겨울 시즌 오프하는 내용이다.", "label": 2.0}
+{"hypothesis": "시간 반을 성공해서 글을 쓴 것에 대해서 말한다.", "label": 2.0}
+{"hypothesis": "가사가 낯선 아이들에게 노래를 좋아하는지에 대해 이야기하고 있다.", "label": 2.0}
+{"hypothesis": "드라마 주인공이 결혼하는 꿈을 깨고 빨리 결혼하려고 한다.", "label": 2.0}
+{"hypothesis": "코끼리는 건초를 코끼리 쪽으로 넣는다.", "label": 2.0}
+{"hypothesis": "화장실은 아직도 집으로 공사 중이다.", "label": 2.0}
+{"hypothesis": "무한 부스터로 걸어가서 게임을 하자고 한다.", "label": 2.0}
+{"hypothesis": "토론이 돈에 대해 토론한다.", "label": 2.0}
+{"hypothesis": "연말정산 내년 핼러윈시즌을 기대", "label": 2.0}
+{"hypothesis": "오늘 대사가 날이 시끄럽다며", "label": 2.0}
+{"hypothesis": "방에는 노트북과 텔레비전이 다", "label": 2.0}
+{"hypothesis": "그 그룹은 보트를 물 위에 내려놓고 털썩한 채로 있다.", "label": 2.0}
+{"hypothesis": "윤곽이 가까운 말들이 보인다.", "label": 2.0}
+{"hypothesis": "그 대회는 비례하게 개최되었다.", "label": 2.0}
+{"hypothesis": "볼링을 비교하며 당구가 좋다는", "label": 2.0}
+{"hypothesis": "맥주를 마시고 싶다고", "label": 2.0}
+{"hypothesis": "체에 있는 오렌지 한 다발", "label": 2.0}
+{"hypothesis": "강둑 근처의 뒷에는 배들이 있다.", "label": 2.0}
+{"hypothesis": "슬기로운 감빵생활을 본 후기에 대해 이야기한다.", "label": 4.0}
+{"hypothesis": "병실에 두명의 사람이 있다.", "label": 4.0}
+{"hypothesis": "야구 경기가 아주 빠르게 진행되는 것에 대해 이야기하고 있다.", "label": 4.0}
+{"hypothesis": "킥복싱과 격투기를 배우면서 운동의 위험에 대해 토론한다.", "label": 4.0}
+{"hypothesis": "노트북 위에 고양이가 눕고 있다.", "label": 4.0}
+{"hypothesis": "칫솔 위에 거미가 있다.", "label": 4.0}
+{"hypothesis": "탁자 위에 와인 잔이 네개 있다.", "label": 4.0}
+{"hypothesis": "어떤 사람들은 코끼리 위에 올라탄다.", "label": 4.0}
+{"hypothesis": "여자는 공원에서 연을 날린다.", "label": 4.0}
+{"hypothesis": "두대의 버스가 낮에 거리를 달린다.", "label": 4.0}
+{"hypothesis": "아빠랑 이제 드라마를 본다.", "label": 4.0}
+{"hypothesis": "어제 남자사용설명서를 본 것에 대해 이야기한다.", "label": 4.0}
+{"hypothesis": "한 무리의 소들이 초원 위에 있다.", "label": 4.0}
+{"hypothesis": "숙녀들은 연을 높이 날린다.", "label": 4.0}
+{"hypothesis": "뮤지컬 티켓팅에 대해 이야기하고 있다.", "label": 4.0}
+{"hypothesis": "잔디에 오토바이가 있다.", "label": 4.0}
+{"hypothesis": "두명이 호수에서 나란히 수영을 했다.", "label": 4.0}
+{"hypothesis": "어미가 날이 추워 보이는 새끼 고양이를 걱정한다.", "label": 4.0}
+{"hypothesis": "강가에서 두대의 차가 신호등에서 멈췄다.", "label": 4.0}
+{"hypothesis": "이 방에는 많은 전자 제품이 전시되어 있다.", "label": 4.0}
+{"hypothesis": "기린 옆에서 두 사람이 함께 웃고 있다.", "label": 4.0}
+{"hypothesis": "귀마개 한쌍이 컴퓨터 옆에 있다.", "label": 4.0}
+{"hypothesis": "이번 주에 공부를 푹 쉬는 것에 대해 이야기하고 있다.", "label": 4.0}
+{"hypothesis": "개가 플라스틱 물병을 씹고 있다.", "label": 4.0}
+{"hypothesis": "네마리의 양이 건초를 같이 먹는다.", "label": 4.0}
+{"hypothesis": "핫도그는 상자 안에 있다.", "label": 4.0}
+{"hypothesis": "드라마 번역이 없는 것에 대해 이야기하고 있다.", "label": 4.0}
+{"hypothesis": "기차 역 안에 기차 한대가 있다.", "label": 4.0}
+{"hypothesis": "여자와 개는 소파에서 같이 잔다.", "label": 4.0}
+{"hypothesis": "여자는 공원에서 연을 날린다.", "label": 4.0}
+{"hypothesis": "한 무리의 양이 호수 옆에서 풀을 뜯고 있다.", "label": 4.0}
+{"hypothesis": "개가 창문 옆 침대에 눕는다.", "label": 4.0}
+{"hypothesis": "심사를 보러 가서 단태권도에 대해 이야기한다.", "label": 4.0}
+{"hypothesis": "양과 오리가 울타리 뒤에 있다.", "label": 4.0}
+{"hypothesis": "방 안에 거울과 세탁기가 있다.", "label": 4.0}
+{"hypothesis": "버스 두대와 굴착기가 길에 있다.", "label": 4.0}
+{"hypothesis": "오리 가족이 물 속에서 헤엄친다.", "label": 4.0}
+{"hypothesis": "바위와 꽃 뒤에 소화전이 있다.", "label": 4.0}
+{"hypothesis": "두마리의 새가 의자 뒤에 앉아 있다.", "label": 4.0}
+{"hypothesis": "소들이 거리 한가운데에 있다.", "label": 4.0}
+{"hypothesis": "벽에 조각품과 그림이 있다.", "label": 4.0}
+{"hypothesis": "두마리의 갈색 곰이 물 속에서 함께 헤엄친다.", "label": 4.0}
+{"hypothesis": "유기 동물 보호에 대해 알아보고 봉사활동을 한다.", "label": 4.0}
+{"hypothesis": "건물 옆면에 시계 두개가 있다.", "label": 4.0}
+{"hypothesis": "숲 한가운데에 화장실이 있다.", "label": 4.0}
+{"hypothesis": "방 안에 세탁기와 거울이 있다.", "label": 4.0}
+{"hypothesis": "두대의 기차가 철도를 나란히 달린다.", "label": 4.0}
+{"hypothesis": "세계 여행과 관련된 게임에 대해 얘기하고 있다.", "label": 4.0}
+{"hypothesis": "방 안에 갖가지 물건들이 가득하다.", "label": 4.0}
+{"hypothesis": "몇개의 피자 조각을 먹고 있다.", "label": 4.0}
+{"hypothesis": "운동하는 모습을 실시간 방송으로 송출한다.", "label": 4.0}
+{"hypothesis": "탁자 위에 와인 잔 네개가 있다.", "label": 4.0}
+{"hypothesis": "물병 옆에 텔레비전이 있다.", "label": 4.0}
+{"hypothesis": "북극곰 두마리가 눈 속에서 같이 있다.", "label": 4.0}
+{"hypothesis": "키보드와 마우스가 나란히 있다.", "label": 4.0}
+{"hypothesis": "물 속에 알루미늄 카누가 네개 있다.", "label": 4.0}
+{"hypothesis": "옛 추억에 대해 이야기하고 있다.", "label": 4.0}
+{"hypothesis": "한 테이블 앞에 두명의 남자가 있다.", "label": 4.0}
+{"hypothesis": "개가 잔디밭에서 원반을 잡고 있다.", "label": 4.0}
+{"hypothesis": "이 초원에 소 두마리가 있다.", "label": 4.0}
+{"hypothesis": "북극곰은 물 속에서 수영을 한다.", "label": 4.0}
+{"hypothesis": "교회 시계 탑이 낮에 보인다.", "label": 4.0}
+{"hypothesis": "벽 한쪽에 소화전이 있다.", "label": 4.0}
+{"hypothesis": "이층 버스는 두대의 택시 앞을 지나간다.", "label": 4.0}
+{"hypothesis": "샌드위치와 차 한잔을 카페에서 마시려고 한다.", "label": 4.0}
+{"hypothesis": "얼룩말과 양이 들판에서 풀을 먹고 있다.", "label": 4.0}
+{"hypothesis": "이 사진에는 깨끗한 욕실이 보인다.", "label": 4.0}
+{"hypothesis": "게임상에서 레벨을 올리는 방법을 알려주고 있다.", "label": 4.0}
+{"hypothesis": "길가에 화장실이 있다.", "label": 4.0}
+{"hypothesis": "고양이와 개가 공원에 있다.", "label": 4.0}
+{"hypothesis": "공통사를 만들려고 하는데 기한이 두 달이다.", "label": 4.0}
+{"hypothesis": "처리해야 할 오류에 대해 답이 떴다.", "label": 4.0}
+{"hypothesis": "젊은 여성이 담당자라고 생각했는데, 중년 남성이었다.", "label": 4.0}
+{"hypothesis": "트렁크에 온갖 종류의 짐이 가득하다.", "label": 4.0}
+{"hypothesis": "승용차가 길 옆에 정차해 있다.", "label": 4.0}
+{"hypothesis": "집 앞의 녹색 초원에서 양들이 풀을 뜯고 있다.", "label": 4.0}
+{"hypothesis": "접시 위에 당근이 많이 있다.", "label": 4.0}
+{"hypothesis": "북극곰 두마리가 눈 속에 같이 있다.", "label": 4.0}
+{"hypothesis": "케이크 위에 두개의 촛불이 있다.", "label": 4.0}
+{"hypothesis": "이 욕실에는 자주 색 커튼이 있다.", "label": 4.0}
+{"hypothesis": "소방차에 불이 반쯤 붙어서 전복되었다.", "label": 4.0}
+{"hypothesis": "거실에는 침대 두개가 있다.", "label": 4.0}
+{"hypothesis": "오토바이가 네대의 차 앞에 주차되어 있다.", "label": 4.0}
+{"hypothesis": "인라인을 타는 영상을 보고 피겨 스케이트 선수에게 추천해 주고 있다.", "label": 4.0}
+{"hypothesis": "남자가 배를 정비하고 있다.", "label": 4.0}
+{"hypothesis": "여자와 개는 같이 소파에서 잔다.", "label": 4.0}
+{"hypothesis": "예능을 봐서 스트레스가 풀리는 느낌이고 재밌다.", "label": 4.0}
+{"hypothesis": "열차는 화창한 날에 철로를 달린다.", "label": 4.0}
+{"hypothesis": "숲 한가운데 소화전이 있다.", "label": 4.0}
+{"hypothesis": "한 여인이 길에서 바나나를 먹는다.", "label": 4.0}
+{"hypothesis": "군대 동기 동생에게 귀여운 이모티콘을 선물해 주고 있다.", "label": 4.0}
+{"hypothesis": "한 소녀가 방금 테니스 공을 쳤다.", "label": 4.0}
+{"hypothesis": "오늘 오케스트라 동아리 연습이 시작된다.", "label": 4.0}
+{"hypothesis": "자전거가 벽 옆에 주차되어 있다.", "label": 4.0}
+{"hypothesis": "거리 간판이 밖에 있다.", "label": 4.0}
+{"hypothesis": "야구 선수는 공을 막는다.", "label": 4.0}
+{"hypothesis": "유기 동물 보호소에서 봉사활동을 더 알아보기로 한다.", "label": 4.0}
+{"hypothesis": "핫도그 두개가 창문 앞에 진열되어 있다.", "label": 4.0}
+{"hypothesis": "소화전이 가로등 옆에 있다.", "label": 4.0}
+{"hypothesis": "한 소년이 화창한 날에 뜰에 프리스비를 던진다.", "label": 4.0}
+{"hypothesis": "가로등이 밤에 거리 위를 비춘다.", "label": 4.0}
+{"hypothesis": "투수가 홈 플레이트 쪽으로 공을 던졌다.", "label": 4.0}
+{"hypothesis": "바닥에 몇개의 장난감이 있다.", "label": 4.0}
+{"hypothesis": "차들이 교차로에서 좌회전하고 있다.", "label": 4.0}
+{"hypothesis": "어죽 집에 가서 먹고 블로그에 올릴 것이다.", "label": 4.0}
+{"hypothesis": "녹색 식물이 병 안에 있다.", "label": 4.0}
+{"hypothesis": "총대가 우선 영상을 편집을 하고 있다.", "label": 4.0}
+{"hypothesis": "두 아이가 마차 안에서 서로 웃고 있다.", "label": 4.0}
+{"hypothesis": "팝콘 맛 쿠키를 만드는 영상이 아주 재미있다.", "label": 4.0}
+{"hypothesis": "건물 옆면에 두개의 시계가 있다.", "label": 4.0}
+{"hypothesis": "드라마 같은 의사 생활의 모습을 보여달라고 한다.", "label": 4.0}
+{"hypothesis": "야구 선수는 홈으로 뛰어간다.", "label": 4.0}
+{"hypothesis": "몇몇 영화 제목과 등장 배우 이름을 묻고 있다.", "label": 4.0}
+{"hypothesis": "활동 기간이 짧지만 콘서트는 자주 한다.", "label": 4.0}
+{"hypothesis": "사람이 없는 거실에 TV가 하나 있다.", "label": 4.0}
+{"hypothesis": "사진을 보며 작업을 변경하는 것에 대해 이야기한다.", "label": 4.0}
+{"hypothesis": "차들이 레스토랑 앞에 주차되어 있다.", "label": 4.0}
+{"hypothesis": "부엌 바 앞에 몇개의 의자가 있다.", "label": 4.0}
+{"hypothesis": "액세서리를 찾았는데 언제 샀는지 정말 모르겠다.", "label": 4.0}
+{"hypothesis": "거실은 가구로 가득 찼다.", "label": 4.0}
+{"hypothesis": "길 모퉁이의 표지판이 눈에 잘 띈다.", "label": 4.0}
+{"hypothesis": "아이템이 나온 과정에 대해 이야기하고 있다.", "label": 4.0}
+{"hypothesis": "가을에 야구를 보러 가기로 약속했다.", "label": 4.0}
+{"hypothesis": "두 사람이 기린 옆에서 함께 웃고 있다.", "label": 4.0}
+{"hypothesis": "두 남자가 피자 집에서 일하고 있다.", "label": 4.0}
+{"hypothesis": "갈대와 억새의 차이에 대해 이야기하고 있다.", "label": 4.0}
+{"hypothesis": "코끼리는 물에서 수영하고 있다.", "label": 4.0}
+{"hypothesis": "엄마와 동생과 아빠가 파티에서 놀고 있다.", "label": 4.0}
+{"hypothesis": "어제 본 남자사용설명서에 대해 이야기한다.", "label": 4.0}
+{"hypothesis": "숲에 갈색 벤치가 있다.", "label": 4.0}
+{"hypothesis": "버스와 차가 서로 가까이에 주차되어 있다.", "label": 4.0}
+{"hypothesis": "자전거 두대가 문 앞에 주차되어 있다.", "label": 4.0}
+{"hypothesis": "겨울에 잔가지들 위에 새가 앉아 있다.", "label": 4.0}
+{"hypothesis": "벤치는 산 꼭대기에 있다.", "label": 4.0}
+{"hypothesis": "푹 빠져 있는 것에 대해 이야기하고 있다.", "label": 4.0}
+{"hypothesis": "배고파서 영화관에서 만나서 밥을 먹기로 했다.", "label": 4.0}
+{"hypothesis": "아기가 곰인형 옆에 있다.", "label": 4.0}
+{"hypothesis": "쉬지 않고 퇴사를 어떤식으로 할지에 대해 이야기하고 있다.", "label": 4.0}
+{"hypothesis": "내일 오전에 들를 곳을 알아보고 있다.", "label": 4.0}
+{"hypothesis": "코끼리는 진흙탕 속에서 몸을 식힌다.", "label": 4.0}
+{"hypothesis": "테니스 선수는 밤에 공을 친다.", "label": 4.0}
+{"hypothesis": "바닥에 몇개의 장난감이 있다.", "label": 4.0}
+{"hypothesis": "거리의 가게가 문을 닫았다.", "label": 4.0}
+{"hypothesis": "개와 고양이가 공원에 있다.", "label": 4.0}
+{"hypothesis": "기린이 나무에서 풀을 조금 먹는다.", "label": 4.0}
+{"hypothesis": "영화를 보면서 소감에 대해서 말한다.", "label": 4.0}
+{"hypothesis": "젊은 여성이 담당자인 중년 남성들을 생각한다.", "label": 4.0}
+{"hypothesis": "소화전 옆에 그림자가 있다.", "label": 4.0}
+{"hypothesis": "식당 앞에는 메뉴가 있다.", "label": 4.0}
+{"hypothesis": "복근 운동을 하는데 너무 힘들어서 고통스럽다.", "label": 4.0}
+{"hypothesis": "울타리 뒤에 양과 오리들이 있다.", "label": 4.0}
+{"hypothesis": "물가에 세마리의 소들이 있다.", "label": 4.0}
+{"hypothesis": "탁자 위에 네개의 와인 잔이 있다.", "label": 4.0}
+{"hypothesis": "플래카드를 만들어야 하는데 뭘 해야 할지 모르겠다.", "label": 4.0}
+{"hypothesis": "여자 목소리가 좋아 노래를 추천해 주고 있다.", "label": 4.0}
+{"hypothesis": "갈대와 억새의 차이에 대해 이야기하고 있다.", "label": 4.0}
+{"hypothesis": "테이블 앞에 두 남자가 있다.", "label": 4.0}
+{"hypothesis": "흐린 날에 두척의 배가 해변에 정박해 있다.", "label": 4.0}
+{"hypothesis": "좋아하는 케이스를 산다", "label": 4.0}
+{"hypothesis": "오늘 개교기념일에 사회봉사를 가야 한다.", "label": 4.0}
+{"hypothesis": "얼룩말 한쌍이 들판의 흙 길을 건넌다.", "label": 4.0}
+{"hypothesis": "수영을 하면서 먹고 싶은 음식에 대해 이야기하고 있다.", "label": 4.0}
+{"hypothesis": "열차 두대가 나란히 달린다.", "label": 4.0}
+{"hypothesis": "동영상을 보내며 무서운 동영상이라고 한다.", "label": 4.0}
+{"hypothesis": "요즘 개인 트레이닝의 가격이 비싸서 알아보고 있다.", "label": 4.0}
+{"hypothesis": "요새 어떤 예능 프로그램을 주로 보는지에 대해 대화한다.", "label": 4.0}
+{"hypothesis": "들판의 초목에는 양들이 있다.", "label": 4.0}
+{"hypothesis": "종탑 밖에 시계가 있다.", "label": 4.0}
+{"hypothesis": "교차로에서 차들이 좌회전한다.", "label": 4.0}
+{"hypothesis": "노트북이 선반 위에 있다.", "label": 4.0}
+{"hypothesis": "침대 위에 담요와 몇권의 책이 한권씩 있다.", "label": 4.0}
+{"hypothesis": "아무 그림을 붙이는 것의 의미에 대해 얘기하고 있다.", "label": 4.0}
+{"hypothesis": "북극곰은 물 속에서 수영을 한다.", "label": 4.0}
+{"hypothesis": "이 상점은 아주 많은 바나나를 가지고 있다.", "label": 4.0}
+{"hypothesis": "오늘 새로운 책을 읽고 있다.", "label": 4.0}
+{"hypothesis": "욕실에는 화려한 꽃 그림이 있다.", "label": 4.0}
+{"hypothesis": "가게의 문 옆에 표지판이 있다.", "label": 4.0}
+{"hypothesis": "거실에는 침대 두개가 있다.", "label": 4.0}
+{"hypothesis": "복도 끝에 자전거가 있다.", "label": 4.0}
+{"hypothesis": "한 여자와 몇몇 우산들이 방에 있다.", "label": 4.0}
+{"hypothesis": "모래 위에 새가 있다.", "label": 4.0}
+{"hypothesis": "미리 집에서 블로그 작업을 했다.", "label": 4.0}
+{"hypothesis": "초록색 컵이 고양이 위에 있다.", "label": 4.0}
+{"hypothesis": "테이블 위에 케이크가 많이 있다.", "label": 4.0}
+{"hypothesis": "한 여성이 몇몇 새들에게 먹이를 준다.", "label": 4.0}
+{"hypothesis": "공원에서 골프를 치고 있다.", "label": 4.0}
+{"hypothesis": "방에는 가방과 의자가 있다.", "label": 4.0}
+{"hypothesis": "두마리의 개가 땅바닥에서 함께 논다.", "label": 4.0}
+{"hypothesis": "똑같은 것만 들으면 바로 찾으러 가는데 정말 똑같다.", "label": 2.33}
+{"hypothesis": "앞머리를 주면 변화를 주니 스타일도 변하지 않는다고", "label": 2.33}
+{"hypothesis": "개막식이 너무너무 복잡해서 나중에 다시", "label": 2.33}
+{"hypothesis": "아까 아까 집에 와서 아까 야식을 먹었다.", "label": 2.33}
+{"hypothesis": "지인이랑 졸업반에 신입생 때 사귀고 싶다고", "label": 2.33}
+{"hypothesis": "한 남자가 연을 잡고 손으로 한잔하고 있다.", "label": 2.33}
+{"hypothesis": "이 식물의 잎에는 브로콜리가 있다.", "label": 2.33}
+{"hypothesis": "장난감과 거북에 대해 이야기하고 있다.", "label": 2.33}
+{"hypothesis": "게임 아이템을 알아보고 구매하려고 했는데 현금으로 사지 않아서 아깝다.", "label": 2.33}
+{"hypothesis": "콘서트 전에 포토카드를 주문했는데", "label": 2.33}
+{"hypothesis": "칼이 야채들 옆에 있는 도마에 있다.", "label": 2.33}
+{"hypothesis": "소 한 떼와 말 한마리 자유의 들판을 돌아다녔", "label": 2.33}
+{"hypothesis": "처음에는 어려운 것 같아서 쉬워질 것 같다고", "label": 2.33}
+{"hypothesis": "주술사캐릭터와 도적 캐릭터가 게임을 하는데 짜증이 난다.", "label": 2.33}
+{"hypothesis": "게임 아이템이 부족하기 때문에 이기는 힘들다.", "label": 2.33}
+{"hypothesis": "수영 처음 가는 친목질이라 할머니가 텃세가 두렵다.", "label": 2.33}
+{"hypothesis": "말이 창고 창문 밖을 들여다본", "label": 2.33}
+{"hypothesis": "배고픈데 먹방을 해달라고 하자 막 족이라고 한다.", "label": 2.33}
+{"hypothesis": "혼자 공연하는 것을 보고 집에서 원법을 외친다.", "label": 2.33}
+{"hypothesis": "계약 연애하는 것을 봤는데 악마같이 이미 봤다고", "label": 2.33}
+{"hypothesis": "영화 드라마 정액권이랑 취미 비용을 끊으려고 한다.", "label": 2.33}
+{"hypothesis": "대표 이미지 설정하는 블로그에 대해 설명하고 있다.", "label": 2.33}
+{"hypothesis": "음식이 많이 카운터에 있다.", "label": 2.33}
+{"hypothesis": "제목이 마음에 들지 않아서 예능 프로그램으로 자막을 보고 있다.", "label": 2.33}
+{"hypothesis": "복권 당첨자가 대출금을 죄다", "label": 2.33}
+{"hypothesis": "운동복을 주로 입고 레깅스를 배치했다.", "label": 2.33}
+{"hypothesis": "양 한마리가 초원에 하나밖에 없다.", "label": 2.33}
+{"hypothesis": "서로가 할 게 없어서 할 게 없다고", "label": 2.33}
+{"hypothesis": "도마와 칼이 도마와 야채 옆에 있다.", "label": 2.33}
+{"hypothesis": "개는 텔레비전으로 동물을 본다.", "label": 2.33}
+{"hypothesis": "수영장과 풀빌라에 같이 놀러 가자고 한다.", "label": 2.33}
+{"hypothesis": "복주머니 수세미가 오래 떠 있어서 힘들고 시간이 걸린다.", "label": 2.33}
+{"hypothesis": "레스토랑에는 음식이 있는 레스토랑이 있다.", "label": 2.33}
+{"hypothesis": "인생을 위해서 현금으로컷을 챙겼다고", "label": 2.33}
+{"hypothesis": "밤에 밝은 방의 창문 밖이 밝힌다.", "label": 2.33}
+{"hypothesis": "풀이 무성한 언덕 위에 몇개의 양들이 있다.", "label": 2.33}
+{"hypothesis": "사람들이 눈치 없어서 퍼지는 것에 대해 이야기한다.", "label": 2.33}
+{"hypothesis": "오늘 새로운 책을 읽었다고", "label": 2.33}
+{"hypothesis": "연말까지 집을 할 수 있다고", "label": 2.33}
+{"hypothesis": "드라마 자체가 재미있다고", "label": 2.33}
+{"hypothesis": "소화전이 철길 앞에 있다.", "label": 2.33}
+{"hypothesis": "이 잎에는 여러가지 화려한 꽃들과 부케가 있다.", "label": 2.33}
+{"hypothesis": "재미있고 재밌고 오에스티가 너무 작화되었으면 좋겠다.", "label": 2.33}
+{"hypothesis": "얼룩말 얼룩말과 곰 동상이 공원에 있다.", "label": 1.34}
+{"hypothesis": "예능 프로그램을 보고 있는데 요즘은 어떤 프로그램을 보는지에 대해 대", "label": 1.34}
+{"hypothesis": "신입사원과 과장님이 오늘 신입사원을 한잔하게 했다.", "label": 1.34}
+{"hypothesis": "움직여서 보고 있는 동영상의 배경입니다.", "label": 1.34}
+{"hypothesis": "책을 연기해서 다", "label": 1.34}
+{"hypothesis": "케이크 인형을 샀는데 노래가 콩순이 아니라서 누르라고 한다.", "label": 1.34}
+{"hypothesis": "처음 쉬워질 거 같다고", "label": 1.34}
+{"hypothesis": "방송이 재방송인 줄 알고 방송인 줄 알았다고", "label": 1.34}
+{"hypothesis": "여자가 많은 곳으로 사주를 하러 가고 있다.", "label": 1.34}
+{"hypothesis": "관람권을 사용하지 않고 요일에 함께 선택할 것이다.", "label": 1.34}
+{"hypothesis": "영화 곡성이 나와서 다리", "label": 1.34}
+{"hypothesis": "서버 이동에 서버 이동에 대해서 궁금해하고 있다.", "label": 1.34}
+{"hypothesis": "새싹이 생겼고 할머니가 새싹처럼 생겼다.", "label": 1.34}
+{"hypothesis": "벌어서 출석체크를 해서 용돈을 벌었다.", "label": 1.34}
+{"hypothesis": "아이들은 함께 다른", "label": 1.34}
+{"hypothesis": "레스토랑에서 음식 이웃점이 있다.", "label": 1.34}
+{"hypothesis": "접는 사람들에 대해 이야기하고 영상에 접는 것에 대해 이야기한다.", "label": 1.34}
+{"hypothesis": "엄마에게 수세미를 만들었는데 엄마에게 드렸다.", "label": 1.34}
+{"hypothesis": "범선은 물에 상당히 정박해 있다.", "label": 1.67}
+{"hypothesis": "몇대의 차가 거리에서 목격을 내려가고 있다.", "label": 1.67}
+{"hypothesis": "인생을 위해서 컷을 찍고 현금을 챙겼다.", "label": 1.67}
+{"hypothesis": "쓸데없이 비싼 장난감이 나오는 다이", "label": 1.67}
+{"hypothesis": "음료수 두개가 냉장고에 문이 많이 있다.", "label": 1.67}
+{"hypothesis": "병실에 두 사람과 두명이 있다.", "label": 1.67}
+{"hypothesis": "투수가 공을 날 때 회전한다.", "label": 1.67}
+{"hypothesis": "술래랑 친구들을 초대해서 게임에 가고 싶은데 친구가 없다.", "label": 1.67}
+{"hypothesis": "스모그와 오버하지 않은 카페의 조이를 추천해 주고 있다.", "label": 1.67}
+{"hypothesis": "빨간 빨간 소화전과 정원에 빨간 소화전이 있다.", "label": 1.67}
+{"hypothesis": "캐릭터와 캐릭터와의 파트너와 롤에 대해 이야기한다.", "label": 1.67}
+{"hypothesis": "거리는 밤에 거리 위를 비춘다.", "label": 1.67}
+{"hypothesis": "한 한 남자가 가위를 판다.", "label": 1.67}
+{"hypothesis": "들판에 양의 초목이 있다.", "label": 1.67}
+{"hypothesis": "오토바이가 거리에서 많이 다닌", "label": 1.67}
+{"hypothesis": "수영과 헬스를 다음", "label": 1.67}
+{"hypothesis": "방송 내용을 다", "label": 1.67}
+{"hypothesis": "집에서 여제를 잡는 것이 힘들다.", "label": 1.67}
+{"hypothesis": "피시방에 게임을 하러 가려고 했는데 이미 나왔다.", "label": 1.67}
+{"hypothesis": "처음 도전해서 처음 도전해야 하는 것이 힘들다.", "label": 1.67}
+{"hypothesis": "코끼리는 바위 투성이의 코를 움직인다.", "label": 1.67}
+{"hypothesis": "내일 감사한다고", "label": 1.67}
+{"hypothesis": "노트북이 몇개의 방에 있는 방에 있다.", "label": 1.67}
+{"hypothesis": "운동을 정이와 사람이 떨어져서 그런 것이 재미있다.", "label": 1.67}
+{"hypothesis": "프로필 사진을 찾기 전에 얼굴이 몇개 다르", "label": 1.67}
+{"hypothesis": "두 푸 두마리가 자동차 표지판 위에 있다.", "label": 1.67}
+{"hypothesis": "편#이야기 무슨 일이 있는지에 대해 물어본다.", "label": 1.67}
+{"hypothesis": "예전에 생각보다", "label": 1.67}
+{"hypothesis": "밤에 노래를 듣고 감성에 대해 좋아한다.", "label": 1.67}
+{"hypothesis": "남자인 줄 알앤이 감성적인 노래이다.", "label": 1.67}
+{"hypothesis": "코끼리와 코끼리들이 물 속에서 수영하고 있다.", "label": 1.67}
+{"hypothesis": "파티 용품들이 진화하면서 많이 멋지다고", "label": 1.67}
+{"hypothesis": "스포일러를 보고 싶지만 안 보고 싶다.", "label": 3.0}
+{"hypothesis": "누나에게 나온 캐릭터에 대해 이야기하며 능력이 좋다고", "label": 3.0}
+{"hypothesis": "한 여자 옆에 두개의 화장실이 있다.", "label": 3.0}
+{"hypothesis": "남자는 알앤비라는 감성적인 노래에 심취해 있다.", "label": 3.0}
+{"hypothesis": "드라마 자동재생이 깨보면 잠들게 되는 것에 놀랐다.", "label": 3.0}
+{"hypothesis": "금요일에 운동 예약을 아직 안 했다고", "label": 3.0}
+{"hypothesis": "두마리의 동물이 잔디밭을 걷다.", "label": 3.0}
+{"hypothesis": "한 여자가 초원에서 소를 쓰다듬", "label": 3.0}
+{"hypothesis": "야구의 등번호를 보고 가지 못한 것에 대해 이야기한다.", "label": 3.0}
+{"hypothesis": "물 속에서 연이 공중으로 떨어졌다.", "label": 3.0}
+{"hypothesis": "콘서트에 갈 때 신분증을 지참하라고 확인을 하고 있다.", "label": 3.0}
+{"hypothesis": "취미 비용으로 영화 드라마 정액권을 끊었다.", "label": 3.0}
+{"hypothesis": "커플템 중 우정 템과 가족 템에 대해 이야기한다.", "label": 3.0}
+{"hypothesis": "사진을 보면서 많이 뽑았고 재밌다고", "label": 3.0}
+{"hypothesis": "컴퓨터 키보드와 불이 두개의 불처럼 켜진다.", "label": 3.0}
+{"hypothesis": "게임에서 쉬운 레벨업과 힘든 구간을 이야기한다.", "label": 3.0}
+{"hypothesis": "동호회를 좋아해서 가입하고 여행도 많이 다녔", "label": 3.0}
+{"hypothesis": "입금한 자리 사진을 보내고 어느 자리에 입금할지 이야기하고 있다.", "label": 3.0}
+{"hypothesis": "노트북과 모니터 앞에 노트북이 있다.", "label": 3.0}
+{"hypothesis": "조카가 그린 그림을 보며 놀고 평가하고 있다.", "label": 3.0}
+{"hypothesis": "물 속에 알루미늄 카누 네개가 있다.", "label": 3.0}
+{"hypothesis": "집 옆에 트럭 댄이 주차되어 있다.", "label": 3.0}
+{"hypothesis": "대화 상대자에게 딥티슈 마사지를 하라고 알려줬는데 모르는척했다.", "label": 3.0}
+{"hypothesis": "옛날에 나오는 뮤지컬 넘버의 노래 제목에 대해 이야기한다.", "label": 3.0}
+{"hypothesis": "볼만한 영화가 딱히 없어서 대화한다.", "label": 3.0}
+{"hypothesis": "#이야기 공원에서의 골프 친점에 대해 이야기하고 있다.", "label": 3.0}
+{"hypothesis": "쥐처럼 생긴 케익이 장식되어 있다.", "label": 3.0}
+{"hypothesis": "자격증 공부를 못하고 취미생활으로 컬러링북으로 일을 하고 있다.", "label": 3.0}
+{"hypothesis": "동생이 시험때문에 혼자 영화를 보고 있다.", "label": 3.0}
+{"hypothesis": "복근 운동을 하는 것이 너무 힘들다고", "label": 3.0}
+{"hypothesis": "침대 위에서 대신 일을 못해서 해달라고 한다.", "label": 3.0}
+{"hypothesis": "채팅을 해야 하는지에 대해 이야기하고 있다.", "label": 3.0}
+{"hypothesis": "길 옆에 주차 미터기 두개가 있다.", "label": 3.0}
+{"hypothesis": "낮에 된 일에 대해 이야기하고 있다.", "label": 3.0}
+{"hypothesis": "라인업으로 가서 공연을 확인하고 있다.", "label": 3.0}
+{"hypothesis": "도마는 야채들 옆에 칼이 있다.", "label": 3.0}
+{"hypothesis": "리플레이한 장면이 너무 웃겨서 고백했다.", "label": 3.0}
+{"hypothesis": "야외에서 기린이 있다.", "label": 3.0}
+{"hypothesis": "어죽 집에 가서 블로그에 올릴 것이다.", "label": 3.0}
+{"hypothesis": "방송 내용이 짜여서 놀라워하고 있다.", "label": 3.0}
+{"hypothesis": "동생에게 산 캐시미어 머플러가 부러워서 목도리가 뜨고 싶다.", "label": 3.0}
+{"hypothesis": "자격증 공부도 못하고 컬러링북으로 일을 하다가", "label": 3.0}
+{"hypothesis": "등산 후 하산하면 무릎이 아프다는", "label": 3.0}
+{"hypothesis": "산이 지붕과 건물의 눈을 덮고 있다.", "label": 3.0}
+{"hypothesis": "한 잔디 위에 한 동물들이 있다.", "label": 3.0}
+{"hypothesis": "한쌍의 아이들이 축구를 한다.", "label": 3.0}
+{"hypothesis": "버스가 신호등에서 차 쪽으로 멈췄다.", "label": 3.0}
+{"hypothesis": "여자는 로데오에서 말을 탄다.", "label": 3.0}
+{"hypothesis": "여행과 동호회를 좋아해서 가입하고 많이 다녔", "label": 3.0}
+{"hypothesis": "처음 나가서 무서울 것 같다고", "label": 3.0}
+{"hypothesis": "푸들이 자동차 계기판 위에 있다.", "label": 3.0}
+{"hypothesis": "이 사진에는 네장의 키보드가 모두 있습니다.", "label": 3.0}
+{"hypothesis": "엄마가 티켓팅 성공해서 선물을 드리고 있다.", "label": 3.0}
+{"hypothesis": "두 사람이 보트에서 강을 젓고 있다.", "label": 3.0}
+{"hypothesis": "소개해 준 영화가 어떨 것 같아서 묻고 답한다.", "label": 3.0}
+{"hypothesis": "구매를 위해서 이모티콘을 추천해 주고 있다.", "label": 3.0}
+{"hypothesis": "내일 콘서트에 가도 될 것에 기대하고 있다.", "label": 3.0}
+{"hypothesis": "주식을 많이 조사해서 숫자놀이를 해야 한다.", "label": 3.0}
+{"hypothesis": "그 방에는 계단과 분수대가 있다.", "label": 3.0}
+{"hypothesis": "정신병원에 있는 두꺼비 동상이 생겼고 무섭다.", "label": 3.0}
+{"hypothesis": "오늘 유퀴즈 상식에 대해 알려주고 있다.", "label": 3.0}
+{"hypothesis": "식당 앞에 메뉴 제안이 있다.", "label": 3.0}
+{"hypothesis": "사인을 챙기기 위한 도구를 받았다.", "label": 3.0}
+{"hypothesis": "한 한 아이가 거울 속에 있다.", "label": 3.0}
+{"hypothesis": "몸이 길들이고 운동을 열심히 해서 다음", "label": 3.0}
+{"hypothesis": "지하철이 하행선에 있다.", "label": 3.0}
+{"hypothesis": "벽난로 앞에 침대가 있다.", "label": 3.0}
+{"hypothesis": "사진을 보내니 처음에는 별로 예쁘지 않다며", "label": 3.0}
+{"hypothesis": "두마리의 새가 나뭇가지와 나뭇가지 등에 있다.", "label": 3.0}
+{"hypothesis": "춤추는 구역에서 잘 보이는 사람이 있다.", "label": 3.0}
+{"hypothesis": "배경 사진을 인화 중인 액자만 걸면 되겠다고", "label": 3.0}
+{"hypothesis": "고양이가 신발 앞에 눕고 있다.", "label": 2.67}
+{"hypothesis": "사진이 너무 느긋하게 보이는 커서 버려야겠", "label": 2.67}
+{"hypothesis": "한 한 사람이 파도를 탄다.", "label": 2.67}
+{"hypothesis": "심리 테스트를 알아보는 그림 퀴즈를 공유하고 있다.", "label": 2.67}
+{"hypothesis": "신발끈이 달릴 때 정강이가 너무 아프다.", "label": 2.67}
+{"hypothesis": "테이블 위에 컵이 있는 몇명의 사람들이 있다.", "label": 2.67}
+{"hypothesis": "윷놀이를 같이 제안하고 있다.", "label": 2.67}
+{"hypothesis": "내일 콘서트를 가지 않아도 될 만큼 기대된다.", "label": 2.67}
+{"hypothesis": "가을 야구를 보고 거리두기가 떨어져서 앉을 수 있다.", "label": 2.67}
+{"hypothesis": "두마리의 개가 눈 위의 프리스비와 함께 프리스비를 한다.", "label": 2.67}
+{"hypothesis": "아니면 안 썼을 걸 왜 뒤에 썼냐고 한다.", "label": 2.67}
+{"hypothesis": "낮게 하게 된 일에 대해 이야기하고 있다.", "label": 2.67}
+{"hypothesis": "일본어 공부하러 왔는데 접는 일이 없어서 수세미에서 뜨고 싶다.", "label": 2.67}
+{"hypothesis": "눈치 퍼지는 사람이 없는 것에 대해 이야기하고 있다.", "label": 2.67}
+{"hypothesis": "예매 대기 중인데 팬클럽에 들어와도 난리 뜨는 것에 대해 대화한다.", "label": 2.67}
+{"hypothesis": "많은 차고들 앞에 화려한 낙서들이 서 있다.", "label": 2.67}
+{"hypothesis": "랩을 가사는 사람이 순발력과 센스가 있다.", "label": 2.67}
+{"hypothesis": "그 위에 여러가지 과일들이 얹어 져 있다.", "label": 2.67}
+{"hypothesis": "영상을 사서 보고 있는데 누가 또 걸 것인지 모르겠다.", "label": 2.67}
+{"hypothesis": "아르바이트를 해보면 중계가 좋다고", "label": 2.67}
+{"hypothesis": "닭을 안고 요리하고 있다.", "label": 2.67}
+{"hypothesis": "개가 새장의 머리를 내밀고 있다.", "label": 2.67}
+{"hypothesis": "연예인이 기사에서 욕을 많이 먹는 것에 대해 이야기한다.", "label": 2.67}
+{"hypothesis": "내일 오전에 들를만한 곳을 주말에 알아보려고 한다.", "label": 2.67}
+{"hypothesis": "추천해 준 독전이 매우 재밌어서 꼭 보라고 한다.", "label": 2.67}
+{"hypothesis": "탁자 위의 이 요구르트에 밥이 조금 있는지 물어보고 있다.", "label": 2.67}
+{"hypothesis": "남자가 가위로 판다.", "label": 2.67}
+{"hypothesis": "앨범을 냈으면 좋겠다며", "label": 2.67}
+{"hypothesis": "볼링, 배드민턴, 탁구, 운동화 등 재미있는 운동들이 재미있다.", "label": 2.67}
+{"hypothesis": "덕후와 같은 이모티콘을 주고 게임을 했다고", "label": 2.67}
+{"hypothesis": "드라마 속 내용과 드라마 속 내용에 대해 이야기한다.", "label": 2.67}
+{"hypothesis": "건물의 지붕이 산의 지붕으로 덮여 있다.", "label": 2.67}
+{"hypothesis": "앨범을 문문 냈으면 좋겠다.", "label": 2.67}
+{"hypothesis": "손목시계가 좋은지 가죽시계가 나쁜지에 대해 토론한다.", "label": 2.67}
+{"hypothesis": "고양이가 플레이어와 눕는다.", "label": 2.67}
+{"hypothesis": "개 두마리가 눈 위의 프리스비를 한다.", "label": 2.67}
+{"hypothesis": "오늘 유퀴즈 상식을 알려주고 있다.", "label": 2.66}
+{"hypothesis": "일요일에 트레이너와 피티 해서 아파서 미뤘다.", "label": 2.66}
+{"hypothesis": "기차 역 안에서 기차 한대가 있다.", "label": 2.66}
+{"hypothesis": "주식으로 생활습관을 잡고 있다.", "label": 2.66}
+{"hypothesis": "운동 영상이 나오지 않아 먹방 영상이 안 나온다.", "label": 2.66}
+{"hypothesis": "도로에 두대의 차가 도로변 옆에 주차되어 있다.", "label": 2.66}
+{"hypothesis": "드라마 번역에 대해 이야기해 줄 수 없다고", "label": 2.66}
+{"hypothesis": "실용으로 사용할 작품은 아니지만 작업하는 시간을 표현해 준다.", "label": 2.66}
+{"hypothesis": "워킹하고 후프면 각자 홈 트레이닝과 복부 운동을 하려고 한다.", "label": 2.66}
+{"hypothesis": "숟가락을 어떻게 만들어야 하는지 잘 궁금해한다.", "label": 2.66}
+{"hypothesis": "헌혈한 군인 친구와 함께 해보라고 권유했다.", "label": 2.66}
+{"hypothesis": "동물들과 함께 있는 헛간에 동물이 있다.", "label": 2.66}
+{"hypothesis": "비행기 두대가 항공항을 다닌", "label": 2.66}
+{"hypothesis": "놓여 당근 한 접시가 접시 위에 놓여 있다.", "label": 2.66}
+{"hypothesis": "마스킹 테이프를 작성하고 수요 조사에 준다고", "label": 2.66}
+{"hypothesis": "수요일에 뜬 예고편을 보러 가기로 한다고", "label": 2.66}
+{"hypothesis": "단추를 딱 봐도 가짜 같다는", "label": 2.66}
+{"hypothesis": "월요일에 야생화가 나왔다더", "label": 2.66}
+{"hypothesis": "어제 너무 좋았던 꿈이 계속 나와서 보고 싶다.", "label": 2.66}
+{"hypothesis": "일본어를 하는 사람이 다른", "label": 2.66}
+{"hypothesis": "동생에게 더 끌려가서 더 힘들다.", "label": 2.66}
+{"hypothesis": "가방을 사려고 돈을 모아서 누가 나은지 물어본다.", "label": 2.66}
+{"hypothesis": "괴물 영화가 충격적인 게 재미있었다고", "label": 2.66}
+{"hypothesis": "쓰레기 통이 바로 옆에 있는 화장실입니다.", "label": 2.66}
+{"hypothesis": "흐린 날에는 비행기 한대가 착륙하고 있다.", "label": 2.66}
+{"hypothesis": "해변가에 두명이 카약이 있다.", "label": 1.6600000000000001}
+{"hypothesis": "한 싱크대 사진이 아주 깨끗한 방 안에 있다.", "label": 1.6600000000000001}
+{"hypothesis": "비밀번호는 처음 가입하면 깨질 것 같아서 없어진다.", "label": 1.6600000000000001}
+{"hypothesis": "얼룩말 얼룩말과 얼룩말이 물 속에서 묘기를 부린다.", "label": 1.6600000000000001}
+{"hypothesis": "레터링 글씨체를 보고 글씨체 사진을 보며 이야기한다.", "label": 1.6600000000000001}
+{"hypothesis": "가족들은 모두 사주를 가지고 오래 살았다.", "label": 1.6600000000000001}
+{"hypothesis": "머그 잔이 차의 측면을 지나간다.", "label": 1.6600000000000001}
+{"hypothesis": "내일 출근하면 휴가 때문에 뭉그적거리는 것을 걱정하고", "label": 1.6600000000000001}
+{"hypothesis": "한 여자가 돌고래 쇼에서 코를 탄다.", "label": 1.6600000000000001}
+{"hypothesis": "몇개의 다른", "label": 1.6600000000000001}
+{"hypothesis": "자전거와 다른", "label": 1.6600000000000001}
+{"hypothesis": "오렌지 한 병 두개가 액체 뒤에 있다.", "label": 1.6600000000000001}
+{"hypothesis": "어른들은 무조건 큰 케이크와 연꽃을 좋아한다.", "label": 3.67}
+{"hypothesis": "무서운 거라며 동영상과 사진을 보내달라고 한다.", "label": 3.67}
+{"hypothesis": "게임아이템에 관한 설명을 듣고 능력을 키우기로 했다.", "label": 3.67}
+{"hypothesis": "내일 경기가 우천취소 여부에 대하여 이야기하고 있다.", "label": 3.67}
+{"hypothesis": "게임의 기능과 카탈로그 주문에 대해 이야기하고 있다.", "label": 3.67}
+{"hypothesis": "바나나 트럭 두대가 앞에 있다.", "label": 3.67}
+{"hypothesis": "새로 나온 영화를 기대감이라고 표현하고 있다.", "label": 3.67}
+{"hypothesis": "드라마에 어떤 게 블랙리스트인지에 대해 이야기하고 있다.", "label": 3.67}
+{"hypothesis": "곰이 바닷물에서 수영하고 있다.", "label": 3.67}
+{"hypothesis": "회차를 늘리는 드라마를 보는데 재미가 없다.", "label": 3.67}
+{"hypothesis": "양들이 집 앞의 녹색 초원에서 풀을 뜯고 있다.", "label": 3.67}
+{"hypothesis": "해변에 장난감이 있다.", "label": 3.67}
+{"hypothesis": "제대하고 군대에 가는 연예인들에 대해서 말한다.", "label": 3.67}
+{"hypothesis": "야구를 보고 등번호에 대해 이야기하고 있다.", "label": 3.67}
+{"hypothesis": "두개의 신호등이 길 위에서 녹색으로 빛나고 있다.", "label": 3.67}
+{"hypothesis": "동영상을 제작하는 것이 흔하지 않다.", "label": 3.67}
+{"hypothesis": "요리사가 주방에서 요리를 열심히 일하고 있다.", "label": 3.67}
+{"hypothesis": "양들이 잔디밭을 산책하고 있다.", "label": 3.67}
+{"hypothesis": "여자와 개는 소파에서 같이 잔다.", "label": 3.67}
+{"hypothesis": "창문 너머에 꽃 두송이를 꽂았다.", "label": 3.67}
+{"hypothesis": "노점 옆 방에 침대가 있다.", "label": 3.67}
+{"hypothesis": "사람들이 연주하는 것에 초견이라는 것에 놀라 있다.", "label": 3.67}
+{"hypothesis": "게임을 하고 일어나서 같은 이야기를 나눈다.", "label": 3.67}
+{"hypothesis": "그 위에 여러가지 과일을 얹었다.", "label": 3.67}
+{"hypothesis": "잔디 위에 동물이 있다.", "label": 3.67}
+{"hypothesis": "한 소녀가 암소의 팔을 감싼다.", "label": 3.67}
+{"hypothesis": "이미 노래를 알고 있는데 추천해달라고 한다.", "label": 3.67}
+{"hypothesis": "몇몇 기차들이 두대의 기차와 나란히 선로를 달린다.", "label": 3.67}
+{"hypothesis": "건물 옆에 화장실이 있다.", "label": 3.67}
+{"hypothesis": "밤에 시계 탑과 시내가 밝게 빛났다.", "label": 3.67}
+{"hypothesis": "방금 전에 너무 별로라고 했지만 갑자기 좋아졌다.", "label": 3.67}
+{"hypothesis": "새벽에 등산을 하려고 하는데 근육통이 오지 않는다.", "label": 3.67}
+{"hypothesis": "가로등이 밤에 거리 위를 비춘다.", "label": 3.67}
+{"hypothesis": "낙서는 건물 벽에 있다.", "label": 3.67}
+{"hypothesis": "오토바이가 집 안에 주차되어 있다.", "label": 3.67}
+{"hypothesis": "영화를 보고 준비할 것에 대해 이야기하고 있다.", "label": 3.67}
+{"hypothesis": "설 연휴가 끝나고 운동을 하려고 한다.", "label": 3.67}
+{"hypothesis": "방에는 가구와 텔레비전이 있다.", "label": 3.67}
+{"hypothesis": "공원에서 골프를 치려고 한다.", "label": 3.67}
+{"hypothesis": "거실에는 TV와 책장이 있다.", "label": 3.67}
+{"hypothesis": "한 병의 오렌지 두개가 액체 뒤에 있다.", "label": 3.67}
+{"hypothesis": "두마리의 곰이 바위 위에서 서로 코를 비빈다.", "label": 3.67}
+{"hypothesis": "기차 역은 사람들이 지나간다.", "label": 3.67}
+{"hypothesis": "두명의 여자가 물 속에서 보트를 뛰어오고 있다.", "label": 3.67}
+{"hypothesis": "신발 밑에 분홍색 점이 있다.", "label": 3.67}
+{"hypothesis": "눈이 건물과 산을 덮고 지붕을 덮었다.", "label": 3.67}
+{"hypothesis": "돌담 옆에 곰 한마리가 있다.", "label": 3.67}
+{"hypothesis": "본 내용 중 기억에 잘 나지 않는 내용에 대해 이야기한다.", "label": 3.67}
+{"hypothesis": "음식 방송 보면서 대리만족을 느껴 배고프다고", "label": 3.67}
+{"hypothesis": "한 무리의 남자들이 차 앞을 걸어간다.", "label": 3.67}
+{"hypothesis": "취미생활은 필요한 것만 할지 고민하고 있다.", "label": 3.67}
+{"hypothesis": "소화전이 철길 앞에 있다.", "label": 3.67}
+{"hypothesis": "은행 적금 상품과 이벤트 게임에 대해 이야기하고 있다.", "label": 3.67}
+{"hypothesis": "이 사진 속의 개 한마리가 바로 옆에 있다.", "label": 3.67}
+{"hypothesis": "게임 아이템을 알아보고 현금으로 구매하면 사기 아깝다.", "label": 3.67}
+{"hypothesis": "덩달을 보고 눈물이 날뻔한 이야기를 하고 있다.", "label": 3.67}
+{"hypothesis": "어떤 소들은 시골길 가장자리에 있다.", "label": 3.67}
+{"hypothesis": "벤치 옆에 식물이 있다.", "label": 3.67}
+{"hypothesis": "성당에 가서 월요일 결과가 잘 나오지 않아서 기도하고 있다.", "label": 3.67}
+{"hypothesis": "집 옆 풀밭에 양 몇마리가 있다.", "label": 3.67}
+{"hypothesis": "있 숲 속의 벤치에 사람들이 있다.", "label": 3.67}
+{"hypothesis": "어떤 운동을 배우면 좋을지 의견을 나누고 있다.", "label": 3.67}
+{"hypothesis": "밤에 시내 거리가 보인다.", "label": 3.67}
+{"hypothesis": "이 테이블에서 밥을 먹고 있다.", "label": 3.67}
+{"hypothesis": "만화카페에 같이 가자고 제안하고 있다.", "label": 3.67}
+{"hypothesis": "두마리의 양이 물 속에서 헤엄친다.", "label": 3.67}
+{"hypothesis": "케이블카가 역에 정차해 있다.", "label": 3.67}
+{"hypothesis": "이 방에는 많은 전자 제품들이 있다.", "label": 3.67}
+{"hypothesis": "황새는 날 때 날개를 펼친다.", "label": 3.67}
+{"hypothesis": "밤에 차들이 도시 거리를 다닌", "label": 3.67}
+{"hypothesis": "건강과 관련된 약초와 한약재에 관심이 있다.", "label": 3.67}
+{"hypothesis": "공원 상공에서 연이 높이 난다.", "label": 3.67}
+{"hypothesis": "동생이 누나에게 기록 단축을 위해 팁을 질문하고 있다.", "label": 3.67}
+{"hypothesis": "개가 냉장고 옆 바닥에 있다.", "label": 3.67}
+{"hypothesis": "오렌지 위에 사과가 있다.", "label": 3.67}
+{"hypothesis": "샐러드와 롤이 접시 위에 있다.", "label": 3.67}
+{"hypothesis": "오늘 수영선수는 운동을 할지에 대해 이야기한다.", "label": 3.67}
+{"hypothesis": "화려한 색의 차량이 길에 주차되어 있다.", "label": 3.67}
+{"hypothesis": "그 옆에 주차된 차들이 거리에 있다.", "label": 3.67}
+{"hypothesis": "엄마가 밥을 해준 후 지인이 그림 퀴즈를 풀었다.", "label": 3.67}
+{"hypothesis": "한 남자가 새 막대기를 잡고 있다.", "label": 3.67}
+{"hypothesis": "엄마에게 수세미를 만들어 드렸는데 좋아한다.", "label": 3.67}
+{"hypothesis": "두 사람이 사무실에서 일어선다.", "label": 3.67}
+{"hypothesis": "지금 찜질방은 시국 때문에 못 간다.", "label": 3.67}
+{"hypothesis": "건물 앞의 길에 버스 두대가 있다.", "label": 3.67}
+{"hypothesis": "길가에 흙 속에 소화전이 있다.", "label": 3.67}
+{"hypothesis": "연습생 때 영상을 공개했는데 갑자기 노래가 슬퍼졌다.", "label": 3.67}
+{"hypothesis": "약재와 약초와의 관계에 관한 관심이 있다.", "label": 3.67}
+{"hypothesis": "해변의 물 속에 사람들이 있다.", "label": 3.67}
+{"hypothesis": "한 여성이 매우 붐비는 부엌에서 일하고 있다.", "label": 3.67}
+{"hypothesis": "쇼핑몰 사이트에 있는데 브랜드를 아는지 모르겠다고", "label": 3.67}
+{"hypothesis": "숲 한가운데에 휴식용 벤치가 있다.", "label": 3.67}
+{"hypothesis": "야구 선수는 방금 공을 찼다.", "label": 3.67}
+{"hypothesis": "햄과 계란 샌드위치를 반으로 잘랐다.", "label": 3.67}
+{"hypothesis": "오늘부터 오케스트라 동아리 연습을 시작하려고 한다.", "label": 3.67}
+{"hypothesis": "화려한 색의 차량들이 길에 주차되어 있다.", "label": 3.67}
+{"hypothesis": "범선이 옆에 정박해 있다.", "label": 3.67}
+{"hypothesis": "경찰관 세명이 남자를 만났다.", "label": 3.67}
+{"hypothesis": "앉은뱅이 식탁 위에 직접 만든 연어 덮밥이 있는 것에 대해 얘기한다", "label": 3.67}
+{"hypothesis": "재미있는 그림을 그리라고 했고 체험하러 갈 준비를 하라고 고마워하고 있다.", "label": 3.67}
+{"hypothesis": "케이블카가 역에 정차해 있다.", "label": 3.67}
+{"hypothesis": "향수병이 나무에 둘러져 있어서 향이 좋을 것 같다.", "label": 3.67}
+{"hypothesis": "벤치는 물과 오솔길에 가까이 있다.", "label": 3.67}
+{"hypothesis": "실패로 인해 손해를 볼까 봐 걱정되어 강화한다.", "label": 3.67}
+{"hypothesis": "워터파크에 사람이 많은 휴가 막바지입니다.", "label": 3.67}
+{"hypothesis": "바위 밑에 표지판이 있다.", "label": 3.67}
+{"hypothesis": "과거와 현재의 특정 연예인의 외모를 비교한다.", "label": 3.67}
+{"hypothesis": "코끼리는 코에 건초를 입에 넣는다.", "label": 3.67}
+{"hypothesis": "방에는 몇개의 의자와 텔레비전이 있다.", "label": 3.67}
+{"hypothesis": "게임 캐릭터 진화에 대한 대화를 나눈다.", "label": 3.67}
+{"hypothesis": "엄마에게 성공해서 티켓을 선물로 드리라고 한다.", "label": 3.67}
+{"hypothesis": "이 접시 위에 샌드위치가 있다.", "label": 3.67}
+{"hypothesis": "할아버지 시계가 벽 옆에 있다.", "label": 3.34}
+{"hypothesis": "차가 소화전 옆의 길에 주차되어 있다.", "label": 3.34}
+{"hypothesis": "접시 위에 핫도그 한 무더기가 있다.", "label": 3.34}
+{"hypothesis": "잠을 자려고 하는데 정주행을 하면 끊기가 어렵다.", "label": 3.34}
+{"hypothesis": "커피 컵 안에 가위가 있다.", "label": 3.34}
+{"hypothesis": "가이드라인에서 작업을 완전히 이해하기 시작했다.", "label": 3.34}
+{"hypothesis": "돈을 모아서 가방을 사줄지 물어본다.", "label": 3.34}
+{"hypothesis": "갈색 곰은 나무에턱을 얹는다.", "label": 3.34}
+{"hypothesis": "심리 테스트와 그림 퀴즈를 알아보고 공유한다.", "label": 3.34}
+{"hypothesis": "영상을 접은 사람에 대해 이야기하고 있다.", "label": 3.34}
+{"hypothesis": "초등학생 때 했던 만화책 시리즈가 너무너무 있었던 이야기를 하고 있다.", "label": 3.34}
+{"hypothesis": "능글맞게 이야기하는 아저씨가 귀엽지만 알고 보면 웃기다.", "label": 3.34}
+{"hypothesis": "거품이 잘 생기는 것을 보고 휘핑을 한다.", "label": 3.34}
+{"hypothesis": "게임에 술래가 없어서 친구들을 초대한다.", "label": 3.34}
+{"hypothesis": "이야기 만든 시간에 대해 이야기하며 작품을 만드는 방법에 대해 이야기한다.", "label": 3.34}
+{"hypothesis": "오늘 드라마를 못 보겠기에 참고 있다.", "label": 3.34}
+{"hypothesis": "북극곰은 물 속에서 당근을 먹는다.", "label": 3.34}
+{"hypothesis": "곰이 강 이내에서 연어를 사냥하고 있다.", "label": 3.34}
+{"hypothesis": "시내에서 차들이 가로등에 있다.", "label": 3.34}
+{"hypothesis": "머리가 애매하지만 만족하는 애들을 추천해 주고 있다.", "label": 3.34}
+{"hypothesis": "홈트레이닝이 안되는 이야기를 하고 있다.", "label": 3.34}
+{"hypothesis": "그 케이크는 색깔이 다르", "label": 3.34}
+{"hypothesis": "생리컵 사용법에 대해 알려준다.", "label": 3.34}
+{"hypothesis": "저번에 산 꽃 화분 이름을 호접란이라고 한다.", "label": 3.34}
+{"hypothesis": "시계가 건물 위에 보인다.", "label": 3.34}
+{"hypothesis": "드라마가 방영될 회차를 확인하고 기대하고 있다.", "label": 3.34}
+{"hypothesis": "아날로그 감성으로 듣는 노래인 시디를 좋아하는 것에 대해 이야기한다.", "label": 3.34}
+{"hypothesis": "항공기가 두대의 군용 옆에 바로 주차되어 있다.", "label": 3.34}
+{"hypothesis": "재미있는 것을 함께 보며 찾으려고 한다.", "label": 3.34}
+{"hypothesis": "고양이 한쌍이 방 안의 의자에 있다.", "label": 3.34}
+{"hypothesis": "준비한 그림을 그리고 재미있는 체험을 고마워하고 있다.", "label": 3.34}
+{"hypothesis": "중학생 때 괴물을 보고 무서워서 잠이 잘 수가 없다.", "label": 3.34}
+{"hypothesis": "해외에서 네일아트를 말지 말지에 대해 이야기하고 있다.", "label": 3.34}
+{"hypothesis": "고양이가 노트북 위에서 노트를 눕는다.", "label": 0.33}
+{"hypothesis": "각자 홈페이 트레이닝을 하는 후프가워킹을 하고", "label": 0.33}
+{"hypothesis": "빗 옆에 있는 목걸이가 빗 옆에 있다.", "label": 0.33}
+{"hypothesis": "남자 연예인#이야기 남자 연예인이 생겼으면 좋겠다고", "label": 0.33}
+{"hypothesis": "얼룩말 물가에 얼룩말과 얼룩말이 있다.", "label": 0.33}
+{"hypothesis": "하늘에 다양", "label": 0.33}
+{"hypothesis": "개는 돈을 아까울 내용이 없다.", "label": 0.33}
+{"hypothesis": "범죄자끼리 피해자와 피해자가 서로에게 말을 했다.", "label": 0.33}
+{"hypothesis": "이번 주 주 토요일 이번 주 토요일에", "label": 0.33}
+{"hypothesis": "동생 남자친구의 장난이 장난이 아니라 친구 남자친", "label": 0.33}
+{"hypothesis": "화장실은 헬스장에서 목욕을 안나왔다.", "label": 0.33}
+{"hypothesis": "헤나 싶다고", "label": 0.33}
+{"hypothesis": "오렌지 아래이니 사과 한마리가 있다.", "label": 0.33}
+{"hypothesis": "다음", "label": 0.33}
+{"hypothesis": "선 범선 친범선이 바다", "label": 0.33}
+{"hypothesis": "이층 버스는 다른", "label": 0.33}
+{"hypothesis": "예전에 노래보다", "label": 0.33}
+{"hypothesis": "이 기린 그룹은 땅 위에서 같이 걷는다.", "label": 0.33}
+{"hypothesis": "수방영상 보러 가서 다시", "label": 1.0}
+{"hypothesis": "응모할 수 있다고", "label": 1.0}
+{"hypothesis": "한 동안 방영된 연예인의 편성에 대해서 쉰다.", "label": 1.0}
+{"hypothesis": "책을 들고 간 소풍에 대해 이야기한다.", "label": 1.0}
+{"hypothesis": "얇은 것보다", "label": 1.0}
+{"hypothesis": "프로듀스가 아닌데 남자 아이돌이 너무 오래되고 구린 거였다고", "label": 1.0}
+{"hypothesis": "이모티션을 다운", "label": 1.0}
+{"hypothesis": "서서 앞으로자리에 가까운 연극이 좋지 않다고", "label": 1.0}
+{"hypothesis": "그림을 맞추면 그려서 게임을 하기로 했다.", "label": 1.0}
+{"hypothesis": "배가 고파도를 보고 방송으로 먹는다.", "label": 1.0}
+{"hypothesis": "마차는 말과 다른", "label": 1.0}
+{"hypothesis": "너무 힘들어서 일기를 써서 일기를 써야 한다.", "label": 1.0}
+{"hypothesis": "바질을 다", "label": 1.0}
+{"hypothesis": "고양이가 밝은 책 위에서 책을 하고 있다.", "label": 1.0}
+{"hypothesis": "이야기 목욕물을 이용하는 새의 목욕물에 대해 이야기하고 있다.", "label": 1.0}
+{"hypothesis": "바질을 다", "label": 1.0}
+{"hypothesis": "봄맞이에서 중국어랑 러브스토리를 쓰고 싶다.", "label": 1.0}
+{"hypothesis": "수요일에 예고편을 보러 가고 수요일에 뜬다고", "label": 1.0}
+{"hypothesis": "검은 검은 트럭이 눈 속에서 검은 배 옆에 주차되어 있다.", "label": 1.0}
+{"hypothesis": "계란은 캐서롤처럼 안 보인다.", "label": 1.0}
+{"hypothesis": "기린이 야생 이성을 날고 있다.", "label": 1.0}
+{"hypothesis": "팬들이 싸인만 하고 회도를 안 하면 된다고", "label": 1.0}
+{"hypothesis": "눈치가 퍼지는 사람도 없다고", "label": 1.0}
+{"hypothesis": "있 집 안의 냉장고 안에는 개조가 있다.", "label": 1.0}
+{"hypothesis": "오빠가 미니사이즈키트를 샀다고", "label": 1.0}
+{"hypothesis": "오랜동안 치지는 않았는데 코드도 기억이 나지 않는다.", "label": 1.0}
+{"hypothesis": "부츠를 올라가며 더 힘들다고", "label": 1.0}
+{"hypothesis": "서로 좋아하는 가수의 대답에 대해 묻고 답하고 있다.", "label": 1.0}
+{"hypothesis": "화장실 화장실은 거울 위의 조각들로 있다.", "label": 1.0}
+{"hypothesis": "머리에 뿔이 있는 기린에게 두마리의 머리가 있다고", "label": 1.0}
+{"hypothesis": "말 두명의 사람들이 해변에서 말을 탄다.", "label": 1.0}
+{"hypothesis": "드라마에서 본다고", "label": 1.0}
+{"hypothesis": "처음 가입하는 비밀번호를 깨고 가입할 것 같다.", "label": 1.0}
+{"hypothesis": "숲에서 식는 동물들에게 인기가 높다는", "label": 0.66}
+{"hypothesis": "목욕하고 헬스장에 주려고 했는데 수건이 안 나왔다.", "label": 0.66}
+{"hypothesis": "등산 등산 가는 말을 꼭 같이 하자고 하자고 말한다.", "label": 0.66}
+{"hypothesis": "노래를 부를 때 녹음을 배불리 하지 말고 먹는다며", "label": 0.66}
+{"hypothesis": "서로 다른", "label": 0.66}
+{"hypothesis": "여름에 갈구에 가서 밥도 맛있고 피시방도 맛있다.", "label": 0.66}
+{"hypothesis": "자신의 방을 찾아오라고 이야기하며 자신의 방을 만들겠다고", "label": 0.66}
+{"hypothesis": "오류처럼 처리되는 오류에 대해 답하고 있다.", "label": 0.66}
+{"hypothesis": "이미지가 표시되어 있는 이미지가 표시됩니다.", "label": 0.66}
+{"hypothesis": "동영상이 배경으로 움직여서 있다.", "label": 0.66}
+{"hypothesis": "비가 좀 싫다고", "label": 0.66}
+{"hypothesis": "사진을 보러 가는 사람들이 색이 다르", "label": 0.66}
+{"hypothesis": "내일 모델 관리사님이랑 각각 모델을 하라고 한다.", "label": 2.34}
+{"hypothesis": "여러 과일들이 그 위에 얹었다.", "label": 2.34}
+{"hypothesis": "에너지가 없어서 소나무 덤불에 걸어서 가기로 한다.", "label": 2.34}
+{"hypothesis": "가족 영화를 보고 중복된 사용을 등록할 수 있다.", "label": 2.34}
+{"hypothesis": "침대 위에 수족관이 있다.", "label": 2.34}
+{"hypothesis": "뮤지컬 배우가 상대 배우의 애설에 화가 났다.", "label": 2.34}
+{"hypothesis": "마감을 늦게 맞췄지만 늦게 찍어서 보자고 한다.", "label": 2.34}
+{"hypothesis": "블로그에서 틴트를 발색하는 것을 인터넷 주문하는 것을 찾아보고 있다.", "label": 2.34}
+{"hypothesis": "친구가 썸으로 보이는 무언가를 보자고 이야기한다.", "label": 2.34}
+{"hypothesis": "보트에는 꽃 몇개가 있다.", "label": 2.34}
+{"hypothesis": "팬들과의 관계가 진짜인 것 같아서 용어를 쓰지 않는다.", "label": 2.34}
+{"hypothesis": "도시의 밤에는 버스가 멈췄다.", "label": 2.34}
+{"hypothesis": "한 개 한마리가 잔디밭에 원반을 잡고 있다.", "label": 2.34}
+{"hypothesis": "카운터에 많은 음식들이 많이 있다.", "label": 2.34}
+{"hypothesis": "길가운데 알록달과 버스가 있다.", "label": 2.34}
+{"hypothesis": "낚싯대가 좀 후진할 것 같아서 중급낚싯대를 샀다.", "label": 2.34}
+{"hypothesis": "사장님이 지인에게 한링크를 보여달라고 한 것을 공유한다.", "label": 3.33}
+{"hypothesis": "연습생 때 영상을 보며 갑자기 노래를 슬퍼졌다.", "label": 3.33}
+{"hypothesis": "지금 유행하는 돌이 봐도 촌스럽다.", "label": 3.33}
+{"hypothesis": "아직 불법적인 영화를 다운", "label": 3.33}
+{"hypothesis": "말의 윤곽이 멀리 보인다.", "label": 3.33}
+{"hypothesis": "입금한 자리 사진을 보내주며 어느 자리를 보내야 할지에 대해 이야기한다.", "label": 3.33}
+{"hypothesis": "마지막 경기를 이기면 유니폼을 산다고", "label": 3.33}
+{"hypothesis": "오빠가 연기 왕자의 우정과 대하사극으로 영화를 찍었다.", "label": 3.33}
+{"hypothesis": "갈색 곰이 나무에 턱을 얹었다.", "label": 3.33}
+{"hypothesis": "함께 게임을 하자고 해서 재밌다고", "label": 3.33}
+{"hypothesis": "처음 나오는 스킬이 약하지만 나중에 강해진다.", "label": 3.33}
+{"hypothesis": "별거 아니지만 정말 귀엽고 성장한 것을 해본다고", "label": 3.33}
+{"hypothesis": "건물 앞에 두대의 버스가 길에 있다.", "label": 3.33}
+{"hypothesis": "몇몇 차들이 교차로 쪽으로 통과해 버렸다.", "label": 3.33}
+{"hypothesis": "별빛이 쏟아지는 광경을 보고 있다.", "label": 3.33}
+{"hypothesis": "말이 창고 창문 밖을 들여다본", "label": 3.33}
+{"hypothesis": "언니가 방 탈출이 비싸서 언니와 방 탈출을 고민한다.", "label": 3.33}
+{"hypothesis": "잠들기 전에 연예 길잡이를 바른 것을 아껴보려고 한다.", "label": 3.33}
+{"hypothesis": "자신의 퍼스널컬 컬러에 대해서 이야기를 하고 있다.", "label": 3.33}
+{"hypothesis": "예전에 산 이모티콘을 새로 산다.", "label": 3.33}
+{"hypothesis": "보트에 꽃이 몇개 있다.", "label": 3.33}
+{"hypothesis": "재밌는 노래가 없어서 스스로 찾아보고 있다.", "label": 3.33}
+{"hypothesis": "멤버가 오디션 프로그램을 조작하는 것인지 추측하고 있다.", "label": 3.33}
+{"hypothesis": "블로그의 대표 이미지 설정에 대해 설명해 주고 있다.", "label": 3.33}
+{"hypothesis": "취미생활을 할지 고민을 할지 고민하고 있다.", "label": 3.33}
+{"hypothesis": "헛간에는 모두 동물들과 함께 있다.", "label": 3.33}
+{"hypothesis": "정류장에서 여러대의 버스를 탄다.", "label": 3.33}
+{"hypothesis": "마운드의 투수가 공을 던진다.", "label": 3.33}
+{"hypothesis": "놀이공원에서 맥주를 마시면서 여유롭게 즐기고 있다.", "label": 3.33}
+{"hypothesis": "쓰레기 통 두개가 소화전 옆에 있다.", "label": 3.33}
+{"hypothesis": "이번에 신인 선수를 빼보려고 했지만 보호가 안 되는 것 같다.", "label": 3.33}
+{"hypothesis": "등장인물인 이야기를 보고 내용에 대해 이야기한다.", "label": 3.33}
+{"hypothesis": "맥주를 마시고 싶다고", "label": 3.33}
+{"hypothesis": "몇척의 배가 짐을 실은 해안에서 정박해 있다.", "label": 3.33}
+{"hypothesis": "과거 향수로 만든 향수를 추천해 주고 만족한다.", "label": 3.33}
+{"hypothesis": "벽 안쪽에 책 한 뭉치가 있다.", "label": 3.33}
+{"hypothesis": "그 집에는 거실에 사람이 하나밖에 없다.", "label": 3.33}
+{"hypothesis": "매우 폭 넓은 텔레비전이 벽에 설치되어 있다.", "label": 3.33}
+{"hypothesis": "찬장들이 변기 위에 있다.", "label": 3.33}
+{"hypothesis": "벤치 위에 밖의 표지판이 있다.", "label": 3.33}
+{"hypothesis": "친구에게 오일 파스를 많이 해달라고 하고 있다.", "label": 3.33}
+{"hypothesis": "영화를 보고 상평하는 것에 대해 이야기한다.", "label": 3.33}
+{"hypothesis": "흙 길 옆의 도로에 돌벽이 있다.", "label": 3.33}
+{"hypothesis": "남자는 경기에서 말을 탄다.", "label": 3.33}
+{"hypothesis": "먹방을 추천받고 있다.", "label": 3.33}
+{"hypothesis": "팝콘 맛 쿠키를 만드는 영상이 아주 재미있다.", "label": 3.33}
+{"hypothesis": "두마리의 갈색 곰이 물 속에서 함께 헤엄친다.", "label": 3.33}
+{"hypothesis": "연예인이 보정 애플리케이션에서 찍은 사진이 나온다고", "label": 3.33}
+{"hypothesis": "비누 만드는 법을 배우고 공방도 배우고 싶다.", "label": 3.33}
+{"hypothesis": "금요일에 운동 예약을 아직 안 했다고", "label": 3.33}
+{"hypothesis": "여자가 말 위에서 장애물을 뛰어넘고 있다.", "label": 3.33}
+{"hypothesis": "곰돌이 셔츠를 사려고 했는데 사이즈가 너무 작다.", "label": 3.33}
+{"hypothesis": "한 소년이 해변의 물 속에 있다.", "label": 3.33}
+{"hypothesis": "오늘은 그날 눌러도 안 가는 것에 대해 이야기한다.", "label": 3.33}
+{"hypothesis": "드라마에 나오는 인물들이 좋다고", "label": 3.33}
+{"hypothesis": "친구가 방송하는 프로그램을 보고 싶다고", "label": 3.33}
+{"hypothesis": "가계도를 어떻게 그리냐고 대상자에게 이야기하고 있다.", "label": 3.33}
+{"hypothesis": "랩이나 가사가 순발력이 있는 사람에게 센스가 있다고", "label": 3.33}
+{"hypothesis": "어르신들이 웨딩 업체에서 온라인 예식에 참여하기 힘들다.", "label": 3.33}
+{"hypothesis": "주유소 근처에 소들이 늘어서 있다.", "label": 3.33}
+{"hypothesis": "네마리의 양이 잡초가 무성한 풀을 먹는다.", "label": 3.33}
+{"hypothesis": "흰 옷과 치마가 너무 비싸서 사려고 한다.", "label": 1.33}
+{"hypothesis": "주문한 그림으로 미니어처 집을 만드는데 그림을 그리라고 한다.", "label": 1.33}
+{"hypothesis": "긴 새가 긴 새를 사냥하고 있다.", "label": 1.33}
+{"hypothesis": "팬티가 안 된다고", "label": 1.33}
+{"hypothesis": "홈페이지에서 입력한 충전 량에 대한 설명을 설명하고 있다.", "label": 1.33}
+{"hypothesis": "얼룩말 얼룩말과 갈색 곰이 들판을 걸어간다.", "label": 1.33}
+{"hypothesis": "이 해변에서는 다양", "label": 1.33}
+{"hypothesis": "운동 내일 운동을 같이 하는 것에 대해 이야기하고 있다.", "label": 1.33}
+{"hypothesis": "레스토랑 간판이 벽에 걸어 놓 있다.", "label": 1.33}
+{"hypothesis": "닭은 요리하지 안아서 안주려고 한다.", "label": 1.33}
+{"hypothesis": "재방송을 본 방송을 알고 있다.", "label": 1.33}
+{"hypothesis": "타이틀곡 중에 별로 좋아하지 않는 곡인 타이틀 곡이 제일 좋다.", "label": 1.33}
+{"hypothesis": "표지판이 밖에 있는 벤치 위의 벤치 위에 있다.", "label": 1.33}
+{"hypothesis": "애들은 발음이 귀여운데 팬들이 너무 애들었다.", "label": 1.33}
+{"hypothesis": "피겨와서 부속품이 다르", "label": 1.33}
+{"hypothesis": "숙소 예약을 위해 사이트를 확인하며 사이트를 위해 정보를 확인한다.", "label": 1.33}
+{"hypothesis": "산 사이에 두마리의 양이 양들이 있다.", "label": 1.33}
+{"hypothesis": "숲에서 구하려는 동물의 디션이 나왔다고", "label": 1.33}
+{"hypothesis": "유닛그룹이 이틀동안 팬 미팅", "label": 1.33}
+{"hypothesis": "배들이 항구아미 항구 편에 정박해 있다.", "label": 1.33}
+{"hypothesis": "드라마에 반전이 있는 반면에 연장된 것에 대해 이야기한다.", "label": 1.33}
+{"hypothesis": "앨범을 만들었는데 너무 많은 사진이 너무 많다.", "label": 1.33}
+{"hypothesis": "오늘 산책을 나가면서 산의 천변을 산책하고 있다.", "label": 1.33}
+{"hypothesis": "녹색 버스가 길에 다른", "label": 1.33}
+{"hypothesis": "이번 첫 투어 출발은 빡세게 빡", "label": 1.33}
+{"hypothesis": "이야기 노래 들 이쁘다고", "label": 0.0}
+{"hypothesis": "다다", "label": 0.0}
+{"hypothesis": "블로그에 다른", "label": 0.0}
+{"hypothesis": "프로그램 속에서 공감이가 좀 웃기다고", "label": 0.0}
+{"hypothesis": "꼬박꼬박이 꼬박 꼬박", "label": 0.0}
+{"hypothesis": "특이하게 눈동자를 타는 배우에 대해 이야기하고 있다.", "label": 0.67}
+{"hypothesis": "잠들기 전에 바른 것이고 아껴주는 연예 길잡이이다.", "label": 0.67}
+{"hypothesis": "책을 다", "label": 0.67}
+{"hypothesis": "게임은 무한 부스터가 걸어가고 있다.", "label": 0.67}
+{"hypothesis": "수록곡보다", "label": 0.67}
+{"hypothesis": "오빠에게 성경애플리케이션을 추천받으며 읽으라고 추천", "label": 0.67}
+{"hypothesis": "있 아직 화장실과 집 이변에 화장실이 있다.", "label": 0.67}
+{"hypothesis": "뱀 두드리기 쉬운 창문을 두드리는 인성에 대해 두", "label": 0.67}
+{"hypothesis": "이야기 고문 장면이 많은 영화들에 대해 이야기하고 있다.", "label": 0.67}
+{"hypothesis": "사랑의 드라마가 불시착이지만 재미있다.", "label": 0.67}
+{"hypothesis": "콘을 좋아해서 카드에 대해 말한다.", "label": 0.67}
+{"hypothesis": "이모티콘이 예전보다", "label": 0.67}
