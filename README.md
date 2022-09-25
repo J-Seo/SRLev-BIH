@@ -28,7 +28,7 @@ HCLT2022 논문의 평가용 `*.json` 파일은 모두 human_evaluation 폴더�
 - commonsense_score.py: SRLev-BIH 실행 
 
 ```
-1. 가상환경 conda를 활용한 설치 방법 (python 3.7)
+## 1. 가상환경 conda를 활용한 설치 방법 (python 3.7)
 
 #### conda (예시: cuda 11.1)
 
@@ -76,7 +76,7 @@ $ pip install sklearn # 평가용.. 다만 이 패키지에서는 사용하지 �
 $ pip3 install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
-2. 실행 방법
+## 2. 실행 방법
 
 #### SRLev-BIH 평가용 데이터에 사용하기 
 
