@@ -28,9 +28,9 @@ HCLT2022 논문의 평가용 `*.json` 파일은 모두 human_evaluation 폴더�
 
 ## 모델 저장소
 
-상식 추론 평가 정보를 학습한 BIH 모델은 HuggingFace 저장소에 업로드 되어 있습니다.
+상식 추론 평가 정보를 학습한 **BIH 모델**은 HuggingFace 저장소에 업로드 되어 있습니다.
 
-[저장소 바로가기](https://huggingface.co/J-Seo/BIH)
+[J-Seo/BIH](https://huggingface.co/J-Seo/BIH)
 
 ## 1. 가상환경 conda를 활용한 설치 방법 (python 3.7)
 
