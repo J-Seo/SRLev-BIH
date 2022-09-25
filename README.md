@@ -23,11 +23,15 @@ HCLT2022 논문의 평가용 `*.json` 파일은 모두 human_evaluation 폴더�
 - results/
   - predict_results_BERT_imitate_human.txt: BIH 모델의 추론 결과 
 
-- checkpoint/ : 학습된 BIH 모델에 대한 체크포인트 저장소
-
 - commonsense_score.py: SRLev-BIH 실행 
-
 ```
+
+## 모델 저장소
+
+상식 추론 평가 정보를 학습한 BIH 모델은 HuggingFace 저장소에 업로드 되어 있습니다.
+
+[저장소 바로가기](https://huggingface.co/J-Seo/BIH)
+
 ## 1. 가상환경 conda를 활용한 설치 방법 (python 3.7)
 
 #### conda (예시: cuda 11.1)
@@ -81,7 +85,7 @@ $ pip3 install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f
 #### SRLev-BIH 평가용 데이터에 사용하기 
 
 ```bash
-$ python commonsense_score.py --is_mean True --reference_file hclt2022/korean_commongen/korean_commongen_official_test.txt --hypothesis_file hclt2022/human_evaluations/integrated_42_human_labeled_test.json --model_name_or_path 'hclt2022/checkpoint' --own_task_name 'BERT_imitate_human' --do_predict True --output_dir 'hclt2022/results'
+$ python commonsense_score.py --is_mean True --reference_file hclt2022/korean_commongen/korean_commongen_official_test.txt --hypothesis_file hclt2022/human_evaluations/integrated_42_human_labeled_test.json --model_name_or_path 'J-Seo/BIH' --own_task_name 'BERT_imitate_human' --do_predict True --output_dir 'hclt2022/results'
 
 # is_mean False로 max 기반의 점수화가 기본 세팅, True로 하는 경우에는 평균 기반으로 점수화
 ```
@@ -89,7 +93,7 @@ $ python commonsense_score.py --is_mean True --reference_file hclt2022/korean_co
 #### SRLev-BIH KoGPT2에 사용하기 
 
 ```bash
-$ python commonsense_score.py --is_mean True --reference_file hclt2022/korean_commongen/korean_commongen_official_test.txt --hypothesis_file hclt2022/korean_commongen/quantitative_eval/KoGPT2_quantitative.json --model_name_or_path 'hclt2022/checkpoint' --own_task_name 'BERT_imitate_human' --do_predict True --output_dir 'hclt2022/results'
+$ python commonsense_score.py --is_mean True --reference_file hclt2022/korean_commongen/korean_commongen_official_test.txt --hypothesis_file hclt2022/korean_commongen/quantitative_eval/KoGPT2_quantitative.json --model_name_or_path 'J-Seo/BIH' --own_task_name 'BERT_imitate_human' --do_predict True --output_dir 'hclt2022/results'
 
 # is_mean False로 max 기반의 점수화가 기본 세팅, True로 하는 경우에는 평균 기반으로 점수화
 ```
