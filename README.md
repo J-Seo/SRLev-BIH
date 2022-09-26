@@ -1,8 +1,10 @@
 # SRLev-BIH 2022
 SRLev-BIH: 한국어 일반 상식 추론 및 생성 능력 평가 지표
 
-생성 결과 및 평가 `*.json` 파일은 모두 korean_commogen 폴더에 있습니다.:
-HCLT2022 논문의 평가용 `*.json` 파일은 모두 human_evaluation 폴더에 있습니다.:
+**생성 결과 및 평가 `*.json` 파일**은 모두 korean_commogen 폴더에 있습니다.
+
+**HCLT2022 논문의 평가용 `*.json` 파일**은 모두 human_evaluation 폴더에 있습니다.:
+
 ```bash
 
 - korean_commongen/
