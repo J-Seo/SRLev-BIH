@@ -101,6 +101,15 @@ $ python commonsense_score.py --is_mean True --reference_file hclt2022/korean_co
 ```
 
 ## Paper
-Please cite the following work when using this data:
-> SRL Score 2022: 한국어 일반 상식 추론을 위한 평가지표
-> HCLT 2022
+Please cite the following work when using this metric:
+
+```
+@inproceedings{jay2022SRLev-BIH,
+  title={SRLev-BIH: An Evaluation Metric for Korean Generative Commonsense Reasoning},
+  author={Jaehyung Seo, Yoonna Jang, Jaewook Lee, Hyeonseok Moon, Sugyeong Eo, Chanjun Park, Aram So, and Heuiseok Lim},
+  booktitle={Proceedings of the 34th Annual Conference on Human & Cognitive Language Technology},
+  affilation={Korea University, NLP & AI},
+  month={October},
+  year={2022}
+}
+```
