@@ -14,7 +14,6 @@ def boolean_string(s):
     return s == 'True'
 
 def main(args):
-    print(args.is_mean)
     srlev, bih, srl_bih = srlev_bih(args.hypothesis_file, args.reference_file, is_mean=args.is_mean)
     print("SRL 점수:", srlev)
     print("BIH 점수:", bih)
